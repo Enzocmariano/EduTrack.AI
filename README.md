@@ -2,7 +2,7 @@
 
 Organizador de estudos gamificado, com um tutor de IA que pesquisa o tema antes de gerar qualquer material.
 
-[![CI](https://github.com/GustavoAugustin2607/edutrack-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/GustavoAugustin2607/edutrack-ai/actions/workflows/ci.yml)
+[![CI](https://github.com/Enzocmariano/EduTrack.AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Enzocmariano/EduTrack.AI/actions/workflows/ci.yml)
 
 **[Abrir o app](https://edutrack-ai-gugaa-2026.netlify.app)** · clique em **Explorar demonstração** para testar sem criar conta.
 
@@ -131,4 +131,6 @@ docs/                   dicionário de dados, referências e prints
 
 ## Autoria
 
-Projeto acadêmico de Gustavo Paulino Augustin, desenvolvido com apoio de ferramentas de IA (Codex e Claude Code).
+Projeto acadêmico desenvolvido em colaboração por **Gustavo Paulino Augustin** e **Enzo Cardoso Mariano**. O desenvolvimento contou com apoio de ferramentas de IA, incluindo Codex e Claude Code.
+
+Repositório de origem e histórico inicial do projeto: [GustavoAugustin2607/edutrack-ai](https://github.com/GustavoAugustin2607/edutrack-ai).
