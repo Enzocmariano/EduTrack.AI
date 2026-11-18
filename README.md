@@ -133,4 +133,4 @@ docs/                   dicionário de dados, referências e prints
 
 Projeto acadêmico desenvolvido em colaboração por **Gustavo Paulino Augustin** e **Enzo Cardoso Mariano**. O desenvolvimento contou com apoio de ferramentas de IA, incluindo Codex e Claude Code.
 
-Repositório de origem e histórico inicial do projeto: [GustavoAugustin2607/edutrack-ai](https://github.com/GustavoAugustin2607/edutrack-ai).
+Projeto feito em colaboração com: [GustavoAugustin2607/edutrack-ai](https://github.com/GustavoAugustin2607/edutrack-ai).
